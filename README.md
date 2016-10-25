@@ -21,4 +21,4 @@ NFC打卡系統
 4.管理員可進行系統設定 ex:修改密碼等
 
 # 二.圖形介面
-
+![image](https://cloud.githubusercontent.com/assets/22362815/19692359/45eb0960-9b0a-11e6-9f1e-fc8128140ded.jpg)
