@@ -21,7 +21,7 @@ NFC打卡系統
 4.管理員可進行系統設定 ex:修改密碼等
 
 # 二.圖形介面
-![image](https://cloud.githubusercontent.com/assets/22362815/19692359/45eb0960-9b0a-11e6-9f1e-fc8128140ded.jpg)
+![image](https://cloud.githubusercontent.com/assets/22362815/20486990/b811c686-b03c-11e6-9e15-f22496bf7387.jpg)
 
 # 三.功能分析
 使用個案名稱: 密碼設定
@@ -77,3 +77,9 @@ NFC打卡系統
 例外狀況
 員工不慎於上班時打卡下班
 (由管理員確認並進行修改)
+
+# 四.使用個案圖+活動圖
+![image](https://cloud.githubusercontent.com/assets/22362815/19692360/45fcd5fa-9b0a-11e6-82ce-626e3181a043.jpg)
+
+# 五.強韌圖
+![image](https://cloud.githubusercontent.com/assets/22362815/20487029/dad311e8-b03c-11e6-95ae-9dcc675e2efe.jpg)
