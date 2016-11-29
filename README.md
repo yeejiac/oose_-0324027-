@@ -83,3 +83,6 @@ NFC打卡系統
 
 # 五.強韌圖
 ![image](https://cloud.githubusercontent.com/assets/22362815/20487029/dad311e8-b03c-11e6-95ae-9dcc675e2efe.jpg)
+
+# 六.循序圖
+![image](https://cloud.githubusercontent.com/assets/22362815/20716291/ab8e2cd2-b68c-11e6-96ba-183ac76279bf.jpg)
