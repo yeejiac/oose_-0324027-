@@ -89,3 +89,19 @@ NFC打卡系統
 
 # 七.類別圖
 ![image](https://cloud.githubusercontent.com/assets/22362815/21285791/6df44eac-c47d-11e6-83ce-98711f61a17d.jpg)
+
+# 八.元件圖
+![image](https://cloud.githubusercontent.com/assets/22362815/21963595/eb42a3ec-db78-11e6-8ef3-b8b82ff36112.jpg)
+
+# 九.初步APP介面
+
+首頁
+![image](https://cloud.githubusercontent.com/assets/22362815/21963600/eb4a84a4-db78-11e6-813b-97211bb8d221.png)
+打卡
+![image](https://cloud.githubusercontent.com/assets/22362815/21963596/eb434eaa-db78-11e6-8f5d-85544590e4cd.png)
+記錄管理
+![image](https://cloud.githubusercontent.com/assets/22362815/21963598/eb479ee2-db78-11e6-9b85-410392ff801a.png)
+人員管理
+![image](https://cloud.githubusercontent.com/assets/22362815/21963599/eb48cb00-db78-11e6-8b8b-101201315fa7.png)
+系統設定
+![image](https://cloud.githubusercontent.com/assets/22362815/21963597/eb43e3ba-db78-11e6-963d-af610ee10acc.png)
